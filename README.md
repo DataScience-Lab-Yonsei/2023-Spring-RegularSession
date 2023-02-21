@@ -2,7 +2,7 @@
 ## 정규세션 및 심화세션
 |Date|Topic|Reference|Lecture|Presenter|
 |:---:|:---:|:---:|:---:|:---:|
-|230131|Linear Regression & SVM|[Github](https://github.com/DataScience-Lab-Yonsei/2022-Fall-RegularSession/tree/main/220804%20Supervised%20Learning/%EC%9E%90%EB%A3%8C)|[Youtube](https://youtu.be/2n0-HaP1ASw)|8기 백민준|
+|230131|Linear Regression & SVM|[Github](https://github.com/DataScience-Lab-Yonsei/2022-Fall-RegularSession/tree/main/220804%20Supervised%20Learning/자료)|[Youtube](https://youtu.be/2n0-HaP1ASw)|8기 백민준|
 |230202|Decision Tree & Ensemble|[Github](https://github.com/DataScience-Lab-Yonsei/2022-Fall-RegularSession/tree/main/220809%20Decision%20Tree%20%26%20Ensemble/%EC%9E%90%EB%A3%8C)|[Youtube](https://youtu.be/c2NBn45cEz4)|8기 장준혁|
 |230207|Dimensionality Reduction|[Github](https://github.com/DataScience-Lab-Yonsei/2022-Fall-RegularSession/tree/main/220811%20Unsupervised%20Learning/%EC%9E%90%EB%A3%8C)|[Youtube](https://youtu.be/URElPfPKnYo)|8기 최윤서|
 |230209|Clustering|[Github](https://github.com/DataScience-Lab-Yonsei/2022-Fall-RegularSession/tree/main/220816%20%EC%B0%A8%EC%9B%90%EC%B6%95%EC%86%8C%20%EA%B0%9C%EA%B4%84%20%EB%B0%8F%20%EB%AA%A8%EB%8D%B8%EB%A7%81%EA%B3%BC%20%ED%86%B5%EA%B3%84%ED%95%99)|[Youtube]()|8기 한예림|
