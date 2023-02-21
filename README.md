@@ -3,7 +3,7 @@
 |Date|Topic|Reference|Lecture|Presenter|
 |:---:|:---:|:---:|:---:|:---:|
 |230131|Linear Regression & SVM|[Github](https://github.com/DataScience-Lab-Yonsei/2023-Spring-RegularSession/tree/main/%5B0131%5D_LinearRegression_and_SVM/%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD)|[Youtube](https://youtu.be/2n0-HaP1ASw)|8기 백민준|
-|230202|Decision Tree & Ensemble|[Github](https://github.com/DataScience-Lab-Yonsei/2022-Fall-RegularSession/tree/main/220809%20Decision%20Tree%20%26%20Ensemble/%EC%9E%90%EB%A3%8C)|[Youtube](https://youtu.be/c2NBn45cEz4)|8기 장준혁|
+|230202|Decision Tree & Ensemble|[Github](https://github.com/DataScience-Lab-Yonsei/2023-Spring-RegularSession/tree/main/%5B0202%5D_DecisionTree_and_Ensemble/%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD)|[Youtube](https://youtu.be/c2NBn45cEz4)|8기 장준혁|
 |230207|Dimensionality Reduction|[Github](https://github.com/DataScience-Lab-Yonsei/2022-Fall-RegularSession/tree/main/220811%20Unsupervised%20Learning/%EC%9E%90%EB%A3%8C)|[Youtube](https://youtu.be/URElPfPKnYo)|8기 최윤서|
 |230209|Clustering|[Github](https://github.com/DataScience-Lab-Yonsei/2022-Fall-RegularSession/tree/main/220816%20%EC%B0%A8%EC%9B%90%EC%B6%95%EC%86%8C%20%EA%B0%9C%EA%B4%84%20%EB%B0%8F%20%EB%AA%A8%EB%8D%B8%EB%A7%81%EA%B3%BC%20%ED%86%B5%EA%B3%84%ED%95%99)|[Youtube]()|8기 한예림|
 |230214|CNN 1|[Github](https://github.com/DataScience-Lab-Yonsei/2022-Fall-RegularSession/tree/main/220818%20Deep%20Learning%20Basic/%EC%9E%90%EB%A3%8C)|[Youtube](https://youtu.be/navtH0-qQVQ)|8기 정건우|
