@@ -10,9 +10,9 @@
 |230216|CNN 2|[Github](https://github.com/DataScience-Lab-Yonsei/2022-Fall-RegularSession/tree/main/220823%20CNN/%EC%9E%90%EB%A3%8C)|[Youtube]()|8기 정건우|
 |230221|CNN 3|[Github](https://github.com/DataScience-Lab-Yonsei/2022-Fall-RegularSession/tree/main/220825%20CNN%20Implementation/%EC%9E%90%EB%A3%8C)|[Youtube](https://youtu.be/PiEeV8jhkb0)<br>[Youtube 보충](https://youtu.be/EsGfb-sKr8w)|8기 유채원|
 |230223|RNN|[Github](https://github.com/DataScience-Lab-Yonsei/2022-Fall-RegularSession/tree/main/220830%20Text%20Mining%20%26%20Embedding/%EC%9E%90%EB%A3%8C)|[Youtube](https://youtu.be/koeYEMbs_EU)|8기 김지희|
-|230228|Transformer 1|[Github](https://github.com/DataScience-Lab-Yonsei/2022-Fall-RegularSession/tree/main/220901%20RNN/%EC%9E%90%EB%A3%8C)|[Youtube](https://youtu.be/NpIx4uV1Nts)<br>[Youtube 보충](https://youtu.be/G5MOVRcVsSQ)<br>[Youtube 보충](https://youtu.be/Mb4dB1TjT5s)|8기 엄소은|
-|230302|Transformer 2|[Github](https://github.com/DataScience-Lab-Yonsei/2022-Fall-RegularSession/tree/main/220908%20Recommender%20System)|[Youtube](https://youtu.be/7fu9V_XwWgc)|8기 조찬형|
-|230309|Auto Encoder|[Github](https://github.com/DataScience-Lab-Yonsei/2022-Fall-RegularSession/tree/main/220915%20Attention%20%26%20Transformer)|[Youtube](https://youtu.be/-LXlflwuvLQ)|8기 김남훈|
-|230316|Advanced Model 1|[Github](https://github.com/DataScience-Lab-Yonsei/2022-Fall-RegularSession/tree/main/220922%20BERT%20%26%20Generative%20Model%20Basic)|[Youtube](https://youtu.be/j20gvl4Ie0s)|7기 박지호|
-|230323|Advanced Model 2|[Github](https://github.com/DataScience-Lab-Yonsei/2022-Fall-RegularSession/tree/main/220929%20Generative%20Model%20(GAN))|[Youtube](https://youtu.be/V1U_DIMtHVU)|8기 황진우|
-|230330|Advanced Model 3|[Github](https://github.com/DataScience-Lab-Yonsei/2022-Fall-RegularSession/tree/main/220929%20Generative%20Model%20(GAN))|[Youtube](https://youtu.be/V1U_DIMtHVU)|8기 엄소은|
+|230228|Transformer 1|[Github](https://github.com/DataScience-Lab-Yonsei/2022-Fall-RegularSession/tree/main/220901%20RNN/%EC%9E%90%EB%A3%8C)|[Youtube](https://youtu.be/ex9Wulo7wxM)|8기 엄소은|
+|230302|Transformer 2|[Github](https://github.com/DataScience-Lab-Yonsei/2022-Fall-RegularSession/tree/main/220908%20Recommender%20System)|[Youtube](https://youtu.be/Q0N-MyRaRRE)|8기 조찬형|
+|230309|Auto Encoder|[Github](https://github.com/DataScience-Lab-Yonsei/2022-Fall-RegularSession/tree/main/220915%20Attention%20%26%20Transformer)|[Youtube]()|8기 김남훈|
+|230316|Gan 1|[Github](https://github.com/DataScience-Lab-Yonsei/2022-Fall-RegularSession/tree/main/220922%20BERT%20%26%20Generative%20Model%20Basic)|[Youtube](https://youtu.be/j20gvl4Ie0s)|8기 엄소은|
+|230323|Gan 2|[Github](https://github.com/DataScience-Lab-Yonsei/2022-Fall-RegularSession/tree/main/220929%20Generative%20Model%20(GAN))|[Youtube](https://youtu.be/V1U_DIMtHVU)|8기 황진우|
+|230330|Gan 3|[Github](https://github.com/DataScience-Lab-Yonsei/2022-Fall-RegularSession/tree/main/220929%20Generative%20Model%20(GAN))|[Youtube](https://youtu.be/V1U_DIMtHVU)|7기 박지호|
