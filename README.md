@@ -13,6 +13,6 @@
 |230228|Transformer 1|[Github](https://github.com/ddoddii/2023-Spring-First-RegularSession/tree/main/%5B0228_0302%5D_Transformer1_2)|[Youtube](https://youtu.be/ex9Wulo7wxM)|8기 엄소은|
 |230302|Transformer 2|[Github](https://github.com/ddoddii/2023-Spring-First-RegularSession/tree/main/%5B0228_0302%5D_Transformer1_2)|[Youtube](https://youtu.be/Q0N-MyRaRRE)|8기 조찬형|
 |230309|Auto Encoder|[Github]()|[Youtube]()|8기 김남훈|
-|230316|Gan 1|[Github]()|[Youtube]()|8기 엄소은|
-|230323|Gan 2|[Github]()|[Youtube]()|8기 황진우|
-|230330|Gan 3|[Github]()|[Youtube]()|7기 박지호|
+|230316|GAN 1|[Github]()|[Youtube]()|7기 전재현|
+|230323|GAN 2|[Github]()|[Youtube]()|8기 황진우|
+|230330|GAN 3|[Github]()|[Youtube]()|7기 박지호|
