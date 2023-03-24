@@ -2,7 +2,7 @@
 ## 정규세션 및 심화세션
 |Date|Topic|Lecture|Session|Exercise|Presenter|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|230131|Linear Regression & SVM|[Github](https://github.com/DataScience-Lab-Yonsei/2023-Spring-RegularSession/tree/main/%5B0131%5D_LinearRegression_and_SVM/lecture)|[Session](https://youtu.be/2n0-HaP1ASw)|[Exercise](https://youtu.be/2n0-HaP1ASw)|8기 백민준|
+|230131|Linear Regression & SVM|[Github](https://github.com/DataScience-Lab-Yonsei/2023-Spring-RegularSession/tree/main/%5B0131%5D_LinearRegression_and_SVM/lecture)|[Youtube](https://youtu.be/2n0-HaP1ASw)|[Youtube](https://youtu.be/2n0-HaP1ASw)|8기 백민준|
 |230202|Decision Tree & Ensemble|[Github](https://github.com/DataScience-Lab-Yonsei/2023-Spring-RegularSession/tree/main/%5B0202%5D_DecisionTree_and_Ensemble/%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD)|[Youtube](https://youtu.be/c2NBn45cEz4)|8기 장준혁|
 |230207|Dimensionality Reduction|[Github](https://github.com/ddoddii/2023-Spring-First-RegularSession/tree/main/%5B0207%5D_Dimensionality_Reduction)|[Youtube](https://youtu.be/URElPfPKnYo)|8기 최윤서|
 |230209|Clustering|[Github](https://github.com/ddoddii/2023-Spring-First-RegularSession/tree/main/%5B0209%5D_Clustering)|[Youtube](https://youtu.be/WrXwOhHKfzo)|8기 한예림|
