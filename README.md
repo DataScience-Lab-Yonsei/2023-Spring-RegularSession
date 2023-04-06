@@ -15,4 +15,4 @@
 |230309|Auto Encoder & Variational Auto Encoder|[Github](https://github.com/DataScience-Lab-Yonsei/2023-Spring-RegularSession/tree/main/%5B0309%5D_AE_and_VAE/lecture)|[Youtube](https://youtu.be/dhbavCgYxkQ)||8기 김남훈|
 |230316|Generative Model|[Github](https://github.com/DataScience-Lab-Yonsei/2023-Spring-RegularSession/tree/main/%5B0316%5D_Generative_Model/lecture)|[Youtube](https://youtu.be/i25WnSl3-As)||7기 전재현|
 |230323|GAN|[Github](https://github.com/DataScience-Lab-Yonsei/2023-Spring-RegularSession/tree/main/%5B0323%5D_GAN/lecture)|[Youtube](https://youtu.be/zo8s7YZf4r0)||8기 황진우|
-|230330|Diffusion|[Github](https://github.com/DataScience-Lab-Yonsei/2023-Spring-RegularSession/tree/main/%5B0330%5D_Diffusion/lecture)|[Youtube]()||7기 박지호|
+|230330|Diffusion|[Github](https://github.com/DataScience-Lab-Yonsei/2023-Spring-RegularSession/tree/main/%5B0330%5D_Diffusion/lecture)|[Youtube](https://youtu.be/P9CROuPV5No)||7기 박지호|
